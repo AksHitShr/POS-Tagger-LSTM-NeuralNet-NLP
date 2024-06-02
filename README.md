@@ -1,5 +1,6 @@
-## Assignment-2 (iNLP)
-### Akshit Sharma (2021101029)
+## Introduction to NLP
+
+This assignment is based on analysis of performance of Neural Network and LSTM models, trained on the Part of Speech (POS) tagging task.
 
 #### Files Included:
 #### pos_tagger.py (contains code to load pretrained models, take input sentence and give pos tag corresponding to each word of the sentence. Also contains code to get evaluation metrics and plots used in Report.)
